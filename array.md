@@ -2,9 +2,7 @@
 
 [TOC]
 
-#### ARRAY_EASY_BEFORE200
-
-##### 1.    Two Sum
+### 1. Two Sum
 
 Easy
 
@@ -144,7 +142,7 @@ Runtime: 12 ms
 
 ------
 
-##### 26.  Remove Duplicates from Sorted Array
+### 26.  Remove Duplicates from Sorted Array
 
 Easy
 
@@ -280,7 +278,7 @@ public:
 
 ------
 
-##### 27.  Remove Element
+### 27.  Remove Element
 
 Easy
 
@@ -402,7 +400,7 @@ public:
 
 ------
 
-##### 35.  Search Insert Position
+### 35.  Search Insert Position
 
 Easy
 
@@ -519,7 +517,7 @@ public:
 
 ------
 
-##### 53.  Maximum Subarray
+### 53.  Maximum Subarray
 
 **easy**
 
@@ -650,7 +648,7 @@ public:
 
 ------
 
-##### 66.  Plus One
+### 66.  Plus One
 
 Easy
 
@@ -746,7 +744,7 @@ public:
 
 ------
 
-##### 88.  Merge Sorted Array
+### 88.  Merge Sorted Array
 
 略，leetcode测试用例有问题
 
@@ -839,7 +837,7 @@ public:
 
 
 
-##### 119.Pascal's Triangle II
+### 119.Pascal's Triangle II
 
 Easy
 
@@ -905,7 +903,7 @@ public:
 
 ------
 
-##### 121. Best Time to Buy and Sell Stock
+### 121. Best Time to Buy and Sell Stock
 
 Easy
 
@@ -969,7 +967,7 @@ public:
 
 ------
 
-##### 122. Best Time to Buy and Sell StockII
+### 122. Best Time to Buy and Sell StockII
 
 Easy
 
@@ -1035,7 +1033,7 @@ public:
 
 ------
 
-##### 169. Majority Element
+### 169. Majority Element
 
 Easy
 
@@ -1124,7 +1122,7 @@ public:
 
 ------
 
-##### 189. Rotate Array
+### 189. Rotate Array
 
 Easy
 
